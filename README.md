@@ -20,6 +20,7 @@ A modern **Book Store web application** where users can browse and explore books
 * CSS3
 * JavaScript
 * React.js
+* Tailwind CSS
 
 ## 📂 Project Structure
 
